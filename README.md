@@ -1,4 +1,4 @@
 # cvwo-assignment
 
-name: Wu Qirui
+name: Wu Qirui \n
 maticulation number: A0204827E
